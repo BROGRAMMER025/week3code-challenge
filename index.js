@@ -1,3 +1,4 @@
+//this file is accessed through  live server
 // Fetch the data from db.json
 fetch('db.json')
   .then((response) => response.json())

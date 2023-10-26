@@ -13,7 +13,10 @@ Movie Theater App
 ## Getting Started
 Clone or download the project to your local machine.
 
-Open the index.html file in your web browser to use the app.
+this site has been deployed to https://brogrammer025.github.io/week3code-challenge/
+
+this file is opened using live server
+
 
 Click on a movie title to view its details.
 
